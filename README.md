@@ -3,7 +3,7 @@
 # Introduction
 This is a wrapper around the NPM package hdb. The version of hdb used is 0.4.1.
 
-The npm hdb module provides a server side connection to SAP HANA in memory databases. For further information, please refer to [the original npm documentation.](http://https://www.npmjs.com/package/hdb)
+The npm hdb module provides a server side connection to a SAP HANA in-memory database. For further information, please refer to [the original npm documentation.](http://https://www.npmjs.com/package/hdb)
 
 Currently, cloud based SAP HANA trial servers (for testing, i.e. no commercial use) are [provided for free.](http://scn.sap.com/docs/DOC-31722)
 
